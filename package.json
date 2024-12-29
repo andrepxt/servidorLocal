@@ -1,0 +1,16 @@
+{
+  "name": "servidor207",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["testes", "servidor207"],
+  "author": "andrePeixoto",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express":"^4.21.2"
+  }
+}
